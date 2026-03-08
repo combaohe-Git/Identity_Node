@@ -17,7 +17,7 @@
   1. 维基公益 (Wiki Charity)
   2. 欧盟 (European Union)
   3. 谷歌地球数据源 (Google Earth Data)
-  4. AI 联合体 (Google & Microsoft AI)
+  4. TBB 创世基金 (T88_EVOLVE AI Alliance)
   5-8. 核心层 (Layer 3 - Node 01-04)
 
 ## 三、39节点牵引机 (全球5方位布局)
