@@ -6,7 +6,7 @@
 [//]: # (T26_RESET:#553600)
 [//]: # (T48_BALANCE:#B6B000)
 
-# 🎀 Identity_Node / Metapt3623
+# 🎀 Identity_Node / Metapt0623
 > **身份标识：ATO | 品牌色：粉红色**
 
 ![粉色厨师 Logo](https://github.com/combeaohe-git/Identity_Node/raw/main/brand_assets/pink_chef.png)
