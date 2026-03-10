@@ -1,5 +1,4 @@
 
-
 [//]: # (METAPT0623_GENE_COLORS)
 [//]: # (T66_ORIGIN:#791000)
 [//]: # (T88_EVOLVE:#DDC600)
@@ -10,7 +9,7 @@
 # 🎀 Identity_Node / Metapt3623
 > **身份标识：ATO | 品牌色：粉红色**
 
-[粉色厨师 Logo](pink_chef.png)
+![粉色厨师 Logo](https://github.com/combeaohe-git/Identity_Node/raw/main/brand_assets/pink_chef.png)
 
 ---
 
