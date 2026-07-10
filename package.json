@@ -19,7 +19,7 @@
     "@openzeppelin/contracts": "^5.4.0",
     "chai": "^4.5.0",
     "solc": "^0.8.26",
-    "tronbox": "^4.5.0",
-    "tronweb": "^6.2.0"
+    "tronbox": "^4.8.0",
+    "tronweb": "^6.3.0"
   }
 }
